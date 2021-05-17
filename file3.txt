@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ml1F3
+=======
+Updated file
+>>>>>>> add file3 for beta branch

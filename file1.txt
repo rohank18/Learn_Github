@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ml1f12
+=======
+Bl1F1
+>>>>>>> Beta branch Update file1.txt

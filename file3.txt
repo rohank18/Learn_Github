@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Ml1F3
 =======
 Updated file
@@ -7,3 +8,6 @@ Updated file
 =======
 Bl1F3
 >>>>>>> Beta branch update file3.txt
+=======
+This is line1 of file3
+>>>>>>> ac6450774e09dfee69cbf91a6be8270481e2a473

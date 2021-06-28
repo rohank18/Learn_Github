@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is modified line1 of file4
 some changes
 
+=======
+This is line1 of file4
+>>>>>>> ac6450774e09dfee69cbf91a6be8270481e2a473
